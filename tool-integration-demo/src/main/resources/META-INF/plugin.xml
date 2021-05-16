@@ -1,0 +1,23 @@
+<idea-plugin>
+    <id>org.prathasirisha.tool-integration</id>
+    <name>Stackoverflow Demo</name>
+    <vendor email="psirisha@gmail.com" url="psirisha@gmail.com">SP</vendor>
+
+    <description><![CDATA[
+    Searches Stackoverflow issues/questions.
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <toolWindow factoryClass="integration.StackOverflowToolWindowFactory" id="StackOverflow" anchor="bottom"/>
+
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

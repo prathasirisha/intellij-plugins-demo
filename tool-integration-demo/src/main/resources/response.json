@@ -1,0 +1,236 @@
+{
+  "items": [
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 3,
+      "last_activity_date": 1616954264,
+      "creation_date": 1538660636,
+      "question_id": 52648325,
+      "link": "https://stackoverflow.com/questions/52648325/eclipse-collections-sorting-an-intlist-by-a-custom-comparator-like-function-with",
+      "title": "Eclipse Collections sorting an IntList by a custom comparator-like function without boxing"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1615499705,
+      "creation_date": 1615498020,
+      "question_id": 66590783,
+      "link": "https://stackoverflow.com/questions/66590783/eclipse-collections-is-there-a-containsany-method-for-sets",
+      "title": "Eclipse Collections - Is there a containsAny() method for Sets?"
+    },
+    {
+      "tags": [
+        "java",
+        "intellij-idea",
+        "eclipse-collections"
+      ],
+      "answer_count": 2,
+      "last_activity_date": 1612535205,
+      "creation_date": 1612301297,
+      "question_id": 66017904,
+      "link": "https://stackoverflow.com/questions/66017904/intellij-java-type-renderers-for-eclipse-collections-with-primitives",
+      "title": "IntelliJ Java Type Renderers for Eclipse Collections with primitives"
+    },
+    {
+      "tags": [
+        "java",
+        "loops",
+        "foreach",
+        "iterator",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1611935987,
+      "creation_date": 1611765971,
+      "question_id": 65923600,
+      "link": "https://stackoverflow.com/questions/65923600/simple-loop-iteration-over-eclipse-collections-maps-for-example-intobjecthashm",
+      "title": "Simple loop iteration over Eclipse Collections maps (for example: IntObjectHashMap)"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1600442688,
+      "creation_date": 1598573038,
+      "question_id": 63625672,
+      "link": "https://stackoverflow.com/questions/63625672/map-with-soft-values-in-eclipse-collections",
+      "title": "Map with soft values in Eclipse Collections"
+    },
+    {
+      "tags": [
+        "java",
+        "performance",
+        "collections",
+        "fastutil",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1587697939,
+      "creation_date": 1587641540,
+      "question_id": 61386226,
+      "link": "https://stackoverflow.com/questions/61386226/resources-for-understanding-fastutil-internals",
+      "title": "Resources for understanding Fastutil internals"
+    },
+    {
+      "tags": [
+        "java",
+        "hibernate",
+        "spring-data-jpa",
+        "spring-data",
+        "eclipse-collections"
+      ],
+      "answer_count": 0,
+      "last_activity_date": 1587043715,
+      "creation_date": 1586891934,
+      "question_id": 61215497,
+      "link": "https://stackoverflow.com/questions/61215497/integration-eclipse-collections-with-spring-data-jpa",
+      "title": "Integration Eclipse Collections with Spring Data JPA"
+    },
+    {
+      "tags": [
+        "java",
+        "java-8",
+        "java-stream",
+        "eclipse-collections"
+      ],
+      "answer_count": 2,
+      "last_activity_date": 1563125845,
+      "creation_date": 1554304995,
+      "question_id": 55498768,
+      "link": "https://stackoverflow.com/questions/55498768/create-an-intstream-and-a-streaminteger-from-an-eclipse-collections-intlist-in",
+      "title": "Create an IntStream and a Stream&lt;Integer&gt; from an Eclipse Collections IntList/IntIterable"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1543904694,
+      "creation_date": 1542354657,
+      "question_id": 53333539,
+      "link": "https://stackoverflow.com/questions/53333539/how-can-i-make-linked-charbag-eclipse-collections",
+      "title": "How can i make linked CharBag (Eclipse Collections)?"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1538529741,
+      "creation_date": 1522540406,
+      "question_id": 49593558,
+      "link": "https://stackoverflow.com/questions/49593558/how-to-convert-mutablemap-to-objectdoublemap-using-eclipse-collections",
+      "title": "How to convert MutableMap to ObjectDoubleMap using Eclipse Collections?"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1537928310,
+      "creation_date": 1508193461,
+      "question_id": 46780054,
+      "link": "https://stackoverflow.com/questions/46780054/how-would-you-do-a-removeif-on-a-list-or-set-for-primitives-in-eclipse-collectio",
+      "title": "How would you do a removeIf on a list or set for primitives in eclipse collections?"
+    },
+    {
+      "tags": [
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1537751807,
+      "creation_date": 1537540757,
+      "question_id": 52446065,
+      "link": "https://stackoverflow.com/questions/52446065/using-the-eclipse-collections-library-how-do-i-sort-mutablemap-on-the-value",
+      "title": "Using the Eclipse Collections library, how do I sort MutableMap on the value?"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1526519385,
+      "creation_date": 1526517570,
+      "question_id": 50381771,
+      "link": "https://stackoverflow.com/questions/50381771/eclipse-collection-usages-on-production-code",
+      "title": "Eclipse Collection usages on production code"
+    },
+    {
+      "tags": [
+        "java",
+        "java-8",
+        "java-stream",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1524219013,
+      "creation_date": 1524217799,
+      "question_id": 49938832,
+      "link": "https://stackoverflow.com/questions/49938832/did-eclipse-collections-get-deprecated-by-java-8",
+      "title": "Did Eclipse Collections get deprecated by Java 8?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-gradle-plugin",
+        "build.gradle",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1513331524,
+      "creation_date": 1513330352,
+      "question_id": 47829370,
+      "link": "https://stackoverflow.com/questions/47829370/using-eclipe-collections-with-android-build-gradle-fails",
+      "title": "Using Eclipe Collections with Android - build.gradle fails"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1501215726,
+      "creation_date": 1501145197,
+      "question_id": 45345703,
+      "link": "https://stackoverflow.com/questions/45345703/hashbag-in-place-remove",
+      "title": "HashBag in-place remove"
+    },
+    {
+      "tags": [
+        "java",
+        "serializable",
+        "eclipse-collections"
+      ],
+      "answer_count": 0,
+      "last_activity_date": 1477448817,
+      "creation_date": 1477428184,
+      "question_id": 40249352,
+      "link": "https://stackoverflow.com/questions/40249352/why-are-most-eclipse-collections-types-serializable",
+      "title": "Why are most eclipse collections types Serializable?"
+    },
+    {
+      "tags": [
+        "eclipse-collections"
+      ],
+      "answer_count": 1,
+      "last_activity_date": 1477427450,
+      "creation_date": 1477406237,
+      "question_id": 40242850,
+      "link": "https://stackoverflow.com/questions/40242850/where-are-the-eclipse-collections-source-jars",
+      "title": "Where are the eclipse-collections source jars?"
+    }
+  ]
+}
