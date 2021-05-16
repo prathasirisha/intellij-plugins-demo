@@ -1,0 +1,16 @@
+= Make IntelliJ IDEA your own!
+
+//image::docs/Make_IntelliJ_IDEA_your_own.png[]
+image::docs/Make_IntelliJ_IDEA_your_own_Light.png[]
+
+* 💡 link:docs/Why_customize_IDE.adoc[Why customize your IDE?]
+* 🧪 link:docs/What_customizations_are_possible.adoc[What customizations are possible?]
+* 📝 link:docs/Different_Types_of_Plugins.adoc[Different Types of plugins]
+* 👀 Demos
+* 💥 link:docs/Your_first_plugin.adoc[Your first plugin]
+* 🎤 link:docs/Key_message.adoc[Key Message]
+* 🔗 link:docs/Resources.adoc[Resources]
+
+== Thank you!
+
+
