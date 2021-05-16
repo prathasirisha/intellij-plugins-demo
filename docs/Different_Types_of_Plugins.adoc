@@ -1,0 +1,28 @@
+== 📝 Different types of plugins
+
+=== Tool integration
+
+- Integration with third-party tools
+- SonarLint
+
+=== User interface add-ons
+
+- Changes to UI of the IDE
+
+=== Custom language support
+
+- Inspections
+- Code completion
+- Syntax highlighting
+
+=== Framework integration
+
+- Code insight to specific frameworks
+- Spring, Docker
+
+=== UI Themes
+
+{nbsp} +
+
+* 💡 link:../Make_IntelliJ_IDEA_your_own.adoc[Main]
+* ➡ Demos

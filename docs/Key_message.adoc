@@ -1,0 +1,12 @@
+== 🎤 Key Message
+Plugins save time, increase productivity!
+
+. Plugins are developed in Java/JVM languages.
+. Plugins are small light-weight applications that live in your IDE container.
+. *"`Context is Queen`"* @ Trisha Gee.
+. Starting point - Identify common development workflows.
+
+{nbsp} +
+
+* 💡 link:../Make_IntelliJ_IDEA_your_own.adoc[Main]
+* ➡ link:Resources.adoc[Next]
