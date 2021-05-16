@@ -1,25 +1,19 @@
 package integration.panel;
 
 import com.intellij.icons.AllIcons;
-import com.intellij.ide.IdeBundle;
 import com.intellij.ide.plugins.newui.ListPluginComponent;
 import com.intellij.openapi.actionSystem.*;
-import com.intellij.openapi.actionSystem.impl.ActionToolbarImpl;
 import com.intellij.openapi.diagnostic.Logger;
 import com.intellij.openapi.project.DumbAwareAction;
-import com.intellij.openapi.ui.popup.IconButton;
 import com.intellij.ui.SearchTextField;
 import com.intellij.ui.SimpleTextAttributes;
-import com.intellij.ui.components.JBLabel;
 import com.intellij.ui.components.panels.NonOpaquePanel;
-import com.intellij.ui.table.JBTable;
 import com.intellij.ui.table.TableView;
 import com.intellij.util.ui.StatusText;
 import integration.domain.StackOverflowQuestion;
 import integration.service.StackOverflowRestService;
 import integration.table.SOTableModel;
 import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 import javax.swing.*;
 import java.awt.*;
