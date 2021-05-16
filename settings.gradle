@@ -1,0 +1,3 @@
+rootProject.name = 'plugins-demo'
+include 'tool-integration-demo'
+include 'user-interface-demo'
