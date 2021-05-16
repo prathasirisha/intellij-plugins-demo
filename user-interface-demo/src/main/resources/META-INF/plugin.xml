@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>org.prathasirisha.user-interface</id>
+    <name>Search GitHub Demo</name>
+
+    <description><![CDATA[
+    Searches code snippets in GitHub from your IDE!<br>
+    ]]></description>
+    <vendor email="psirisha@gmail.com" url="psirisha@gmail.com">SP</vendor>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="actions.SearchGithubAction" class="actions.SearchGithubAction" text="Search Github"
+                description="Search code snippets on GitHub repositories" icon="AllIcons.Vcs.Vendors.Github" >
+            <add-to-group group-id="EditorPopupMenu" anchor="after" relative-to-action="$SearchWeb"/>
+        </action>
+    </actions>
+</idea-plugin>
