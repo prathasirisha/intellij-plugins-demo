@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>org.prathasirisha.tool-integration</id>
     <name>Stackoverflow Demo</name>
-    <vendor email="psirisha@gmail.com" url="psirisha@gmail.com">SP</vendor>
+    <vendor email="vendor.demo@gmail.com" url="vendor.demo@gmail.com">SP</vendor>
 
     <description><![CDATA[
     Searches Stackoverflow issues/questions.

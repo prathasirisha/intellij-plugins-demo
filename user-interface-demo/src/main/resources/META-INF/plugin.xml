@@ -5,7 +5,7 @@
     <description><![CDATA[
     Searches code snippets in GitHub from your IDE!<br>
     ]]></description>
-    <vendor email="psirisha@gmail.com" url="psirisha@gmail.com">SP</vendor>
+    <vendor email="vendor.demo@gmail.com" url="vendor.demo@gmail.com">SP</vendor>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
