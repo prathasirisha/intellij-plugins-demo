@@ -2,12 +2,14 @@
 
 . Quick Start Guide https://plugins.jetbrains.com/docs/intellij/basics.html
 . Main types of Plugins https://plugins.jetbrains.com/docs/intellij/types-of-plugins.html
-. IntelliJ Plugin Template https://github.com/JetBrains/intellij-platform-plugin-template
+. IntelliJ Platform Plugin Template https://github.com/JetBrains/intellij-platform-plugin-template
 . Extensions Explorer https://plugins.jetbrains.com/intellij-platform-explorer
 . UI Guidelines https://jetbrains.design/intellij/
 . Plugin Configuration File https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html
 . Actions https://plugins.jetbrains.com/docs/intellij/basic-action-system.html
 . Extensions https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html#using-extension-points
+. Gradle IntelliJ Plugin tasks https://github.com/JetBrains/gradle-intellij-plugin#tasks
+. UI Inspector https://plugins.jetbrains.com/docs/intellij/internal-ui-inspector.html#using-the-ui-inspector
 
 {nbsp} +
 

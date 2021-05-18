@@ -1,8 +1,8 @@
 == 💥 Your first plugin
 
 . Project Structure
-. plugin.xml
 . build.gradle
+. plugin.xml
 . Extensions
 . Actions
 . Run IDE task

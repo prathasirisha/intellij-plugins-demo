@@ -1,23 +1,27 @@
 == 🧪 What customizations are possible?
 
-=== Existing plugins
+❓❓ *Did you know?*
 
+👉👉 *IntelliJ IDEA is in itself composed of many plugins.*
+
+=== Existing plugins
 - Maven/Gradle
 - Code style
 - Inspections
 - Themes
 - Keymap
 
-=== IDE is a framework
 
-. IntelliJ IDE is in itself composed of many plugins.
-. Java code or JVM languages.
+=== IntelliJ Platform
+
+. IntelliJ IDEA is in itself composed of many plugins.
+. Build plugins using Java or JVM languages.
 . Leverage existing infrastructure
 - JetBrains Swing Components
-- Actions
-- Extension points
+- Tool windows, popup menus, dialogs, trees, tables
+- Program Structure Interface - File type recognition, code completion, find usages, etc.
 
- "Plugin development" == "Software development"
+[big blue]`"Plugin development" == "Software development"`
 
 {nbsp} +
 

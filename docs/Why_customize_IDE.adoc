@@ -16,19 +16,20 @@
 
 
 . Tools help speed up the software development process.
-. Tools should help you focus on the business problem you are solving, not have you worry about anything else.
+. Tools help you stay focused on the business problem you are solving, not have you worry about anything else.
 . Using the right tool for the job only helps you so much, knowing how you can use it or customize it further, will enhance your experience even more!
 
 image::image-2021-05-15-08-48-25-462.png[]
+
 {nbsp} +
 {nbsp} +
-{nbsp} +
+
 
 '''
 
 === 💻 Personalization for you or for your company
 
-.Problem: Developer's productivity
+.Problem: Developer's productivity (This data is purely fictional)
 //image::docs/image_context_switching_darcula.png[]
 image::image_context_switching_light.png[]
 
